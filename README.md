@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Murtaza</h1>
 <h3 align="center">
-  A passionate learner, software developer & Data Analyst from India
+  Learner, Philosopher, Software Developer, Data Analyst & much more
 </h3>
 
 
