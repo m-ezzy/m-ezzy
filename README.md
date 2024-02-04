@@ -13,8 +13,8 @@
 - 🤔 I’m looking for help with ML & NLP concepts
 - 💬 Ask me about anything!
 - 📫 How to reach me: murtazaezzy1001@gmail.com
-<!-- - 😄 Pronouns: He/Him -->
 - ⚡ Fun fact: Currently playing "Sandese Aate Hai" song on loop
+<!-- - 😄 Pronouns: He/Him -->
 
 
 
