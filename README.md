@@ -14,7 +14,7 @@
 - 💬 Ask me about anything!
 - 📫 How to reach me: murtazaezzy1001@gmail.com
 <!-- - 😄 Pronouns: He/Him -->
-- ⚡ Fun fact: Currently playing "Ke Ghar Ab Aaoge" song on loop
+- ⚡ Fun fact: Currently playing "Sandese Aate Hai" song on loop
 
 
 
