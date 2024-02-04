@@ -7,6 +7,8 @@
   A passionate learner, software developer & Data Analyst from India
 </h3>
 
+
+
 - 🔭 I’m currently working on NLP Project, Online Chatting WebApp, University Management System
 - 🌱 I’m currently learning Machine Learning, Angular, Flutter, Next.js
 - 👯 I’m looking to collaborate on any project you want to
