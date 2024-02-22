@@ -2,6 +2,8 @@
 
 <!-- ### Hi there 👋 -->
 
+[![MasterHead](https://cdn.mos.cms.futurecdn.net/LBDQG7vQESaQHoPTUzFgQK-1024-80.gif)](https://github.com/m-ezzy)
+
 <h1 align="center">Hi 👋, I'm Murtaza</h1>
 <h3 align="center">
   Learner, Philosopher, Software Developer, Data Analyst & much more
@@ -13,6 +15,7 @@
 - 🌱 I’m currently learning Machine Learning, Angular, Flutter, Next.js
 - 👯 I’m looking to collaborate on any project you want to
 - 🤔 I’m looking for help with ML & NLP concepts
+- 🎨 I’m an artist. I use 1's and 0's to make beautiful art
 - 💬 Ask me about anything!
 - 📫 How to reach me: murtazaezzy1001@gmail.com
 - ⚡ Fun fact: Currently playing "Sandese Aate Hai" song on loop
