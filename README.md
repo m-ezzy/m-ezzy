@@ -12,7 +12,7 @@
 - 🎨 I’m an artist. I use 1's and 0's to make beautiful art
 - 💬 Ask me about anything!
 - 📫 How to reach me: murtazaezzy1001@gmail.com
-- ⚡ Fun fact: Currently playing "Ek Zindagi - Angrezi Medium" song on loop
+- ⚡ Fun fact: Currently playing "Natural - Imagine Dragons" song on loop
 
 <br /><br />
 There are 10 types of people in the world. Those who get Binary and those who don't...
