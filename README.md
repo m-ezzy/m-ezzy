@@ -17,7 +17,7 @@
 - 💬 Ask me about any of my project!
 - 📫 How to reach me: murtazaezzy1001@gmail.com
 - ⚡ Fun fact: Currently playing "Natural - Imagine Dragons" song on loop
-- 😄There are 10 types of people in the world. Those who get Binary and those who don't...
+- 😄 There are 10 types of people in the world. Those who get Binary and those who don't.
 
 <br />
 
